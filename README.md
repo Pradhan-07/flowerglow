@@ -62,4 +62,4 @@ flowerglow/
 
 ## 👤 Author
 
-**Karan Kumar Pradhan** — [Portfolio](https://karan-07.vercel.app/)
+**Karan Kumar Pradhan** — [Portfolio](https://pradhan.runs-on.dev/)
